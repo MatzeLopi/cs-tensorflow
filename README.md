@@ -1,22 +1,27 @@
-# DeepLearning.AI TensorFlow Developer
+# Personal Motivation for DeepLearning.AI TensorFlow Developer
 
-Welcome to the public repo for this course.
+Welcome to my fork of the DeepLearning.AI TensorFlow Developer course repository.
 
-Below is the list of assignments and ungraded labs course-wise.
+Below, you'll find a list of assignments and ungraded labs organized by course module.
 
+### My Motivation:
 
-### Want to contribute?
+As a passionate learner in the field of deep learning and artificial intelligence, I've embarked on this journey to expand my knowledge and skills. This repository serves as a testament to my commitment to mastering TensorFlow and its applications in various domains.
 
-At the time we are not accepting Pull Requests but if you have any suggestion or spot any typo please raise an issue. 
+Feel free to explore the assignments and labs. While I'm not currently accepting pull requests, your suggestions and feedback are highly valued. If you notice any errors or have ideas for improvement, please don't hesitate to raise an issue.
 
-If you find a bug that is blocking in any way consider joining our [community](https://community.deeplearning.ai/) where our mentors and team will help you. You can also find more information on our community in this Reading Item within
-[Coursera](https://www.coursera.org/learn/introduction-tensorflow/ungradedLti/3L0GK/important-have-questions-issues-or-ideas-join-our-community).
+If you encounter any obstacles or bugs that hinder your learning experience, consider reaching out to the supportive community at [DeepLearning.AI Community](https://community.deeplearning.ai/), where mentors and fellow learners can assist you.
+
+Now, let's dive into the wealth of knowledge and practical exercises offered by the DeepLearning.AI TensorFlow Developer course.
+
 
 -----
 
 ## C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
 ## Week 1
+
+In Week 1 of Course 1, we delved into the fundamentals of TensorFlow and Keras, laying the groundwork for our journey into artificial intelligence, machine learning, and deep learning. This week's focus was on understanding the basics of building neural networks using TensorFlow's high-level API, Keras. The assignment tasked us with creating our first neural network model, setting the stage for more complex projects in the weeks to come.
 
 ### Assignment
 
@@ -27,6 +32,9 @@ If you find a bug that is blocking in any way consider joining our [community](h
 1. Hello World Neural Network _(C1_W1_Lab_1_hello_world_nn.ipynb)_
 
 ## Week 2
+
+Week 2 of Course 1 introduced us to more advanced concepts in neural network development. We explored the significance of callbacks in optimizing and monitoring our models, as well as dove into the implementation of multi-layer neural networks. These topics expanded our understanding of deep learning techniques and prepared us for tackling more complex tasks in subsequent weeks.
+
 
 ### Assignment
 
