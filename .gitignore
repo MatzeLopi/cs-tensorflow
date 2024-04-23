@@ -3,4 +3,6 @@ __pycache__
 .ipynb_checkpoints
 .DS_Store
 
+# Ignore the data directories
 *data
+*cats_and_dogs_filtered*
