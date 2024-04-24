@@ -6,3 +6,4 @@ __pycache__
 # Ignore the data directories
 *data
 *cats_and_dogs_filtered*
+*tmp*
