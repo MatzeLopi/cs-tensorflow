@@ -8,5 +8,6 @@ __pycache__
 *cats_and_dogs_filtered*
 *tmp*
 
-# Ignore all ZIP files
+# Ignore Files
 *.zip
+*.csv
