@@ -11,3 +11,4 @@ __pycache__
 # Ignore Files
 *.zip
 *.csv
+*.json
